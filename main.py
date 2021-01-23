@@ -1,6 +1,3 @@
-#210123 BaseballNumber Game
-#by JbSong
-
 import random
 
   # 정답 숫자 생성 3개 : 1~9사이 모두 다를것
